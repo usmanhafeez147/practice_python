@@ -1,0 +1,10 @@
+venv
+.env
+# OSX
+.DS_Store
+
+# IDE
+.idea/
+
+# python
+*.pyc

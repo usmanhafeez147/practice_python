@@ -1,0 +1,6 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+torch==2.0.1
+torchvision==0.15.2
+datasets==2.10.1
+pillow==9.5.0
